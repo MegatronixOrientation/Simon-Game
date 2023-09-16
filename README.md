@@ -1,4 +1,4 @@
-# Simon-Game
+# url[Simon-Game]https://github.com/MegatronixOrientation/Simon-Game/deployments
 ## The Simon game is the exciting electronic game of lights and sounds in which players must repeat random sequences of lights by pressing the colored pads in the correct sequence
 
 Simon is a classic electronic memory game that tests your ability to remember and reproduce sequences of lights and sounds. The game consists of a round device with four colored buttons, each associated with a unique sound. Here are the basic rules and regulations for playing Simon:
